@@ -1,2 +1,2 @@
-# neural_net_01
+# neural-network
 The implementation of multilayer_perceptron classifier.
