@@ -1,2 +1,2 @@
 # neural-network
-The implementation of multilayer_perceptron classifier.
+手写实现一个多层感知机分类器
